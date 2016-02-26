@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://maxep.github.io/
-title: Maxime Epain
-email: maxime.epain@gmail.com
-description: "I'm an iOS developer based in Paris. In this portfolio you will find several projects I've worked on."
+url: http://duxinfeng.github.io/example
+title: 新风作浪
+email: duxinfeng99@gmail.com
+description: "I'm an iOS developer based in Beijing."
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -21,13 +21,13 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/MaximeEpain
+    url: https://twitter.com/iduxinfeng
   - title: github
-    url: https://github.com/maxep
+    url: https://github.com/duxinfeng
   - title: linkedin
-    url: https://fr.linkedin.com/in/maximeepain
+    url: https://weibo.com/duxinfeng
 
 analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-61988519-1'
+        tracking_id : ''
